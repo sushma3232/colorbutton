@@ -1,0 +1,13 @@
+.big{
+    height:300px;
+    width:300px;
+    border:solid 1px black;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:80px; 
+}
+#red{
+    margin-left:800px;
+    margin-top:20px;
+}
+
